@@ -1,0 +1,14 @@
+Google 33.7
+Facebook 37
+Tesla 23
+Twitter 42.6
+Pinterest 49
+Zoom 29
+Ebay 40
+Dell 31
+Linkedin 42.9
+Adobe 32
+IBM 29
+Apple 29
+Uber 29
+Microsoft 29
